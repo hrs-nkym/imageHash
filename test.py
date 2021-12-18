@@ -2,7 +2,7 @@ from PIL import Image
 import numpy as np
 import glob
 import os
-import matplotlib.pyplot as plt
+# import matplotlib.pyplot as plt
 
 size = 64
 target_file = r"./pict/IMG_0023_BURST00120211210142515.JPG"
